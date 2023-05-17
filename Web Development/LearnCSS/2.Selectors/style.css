@@ -1,0 +1,37 @@
+/* element selector */
+
+body{
+    font-size: 25px;
+}
+
+/* Id selector  */
+
+#second{
+    color: red;
+    font-family: 'Courier New', Courier, monospace  ;
+}
+
+/* .class-selector */
+
+.class-selector{
+    color: purple;
+    font-family: monospace ;
+}
+
+.highlight{
+    color: yellowgreen;
+    font-weight: bolder;
+}
+
+/* nasted selector  */
+
+#second>p{
+    color: chocolate;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+}
+
+/* pseudo selector  */
+
+p:hover{
+    font-family: fantasy;
+}

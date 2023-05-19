@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Smokum&display=swap');
+/* text color  */
+h1{
+   color: rgb(32, 65, 65);
+}
+
+/* text-alignment  */
+p{
+    text-align-last: justify;
+    direction: rtl;
+    
+}
+
+/* text-decoration  */
+
+p{
+    text-decoration-color: coral;
+    font-family:'Smokum'
+    
+    
+}
+
+/* text-spacing  */
+body{
+    letter-spacing: 0.5px;
+    
+}
+
+
+/* Font  */
+
+

@@ -1,0 +1,44 @@
+.container{
+    height: 600px;
+    width: 300px;
+    background-color: rgb(215, 193, 159);
+    margin: 100px;
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+}
+
+.red{
+    background-color: red;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    
+}
+
+.yellow{
+    background-color: yellow;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+}
+
+.green{
+    background-color: green;
+    position: fixed;
+    right: 200px;
+}
+
+.spacer {
+    height: 300vh;
+}
+
+.purple {
+    background-color: purple;
+    position: sticky;
+    top : 50px;
+}

@@ -1,0 +1,18 @@
+.container {
+    /* height: 500px;
+    width: 300px; */
+    border: 2px solid;
+    /* overflow: auto; */
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    
+
+}
+
+.img1 {
+    float: right;
+}
+
+.img2{
+    float: left;
+}
